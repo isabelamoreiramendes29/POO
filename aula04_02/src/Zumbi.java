@@ -4,8 +4,11 @@ public class Zumbi {
     String nome;
 
     double mostraVida(){
-        return vida;
+        return this.vida;
     }
 
-    void transferVida()
+    void transfereVida(Zumbi zumbiAlvo, double quantia){
+        vida -= quantia;
+        zumbiAlvo.vida += quantia;
+    }
 }
