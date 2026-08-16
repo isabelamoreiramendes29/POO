@@ -1,3 +1,5 @@
+package exercicio03;
+
 public class Zumbi {
 
     String nome;

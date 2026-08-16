@@ -1,3 +1,5 @@
+package exercicio02;
+
 public class Zumbi {
 
     Double vida;
