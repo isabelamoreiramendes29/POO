@@ -2,7 +2,7 @@ package exercicio02;
 
 public class Zumbi {
 
-    Double vida;
+    double vida;
     String nome;
 
     double mostraVida(){

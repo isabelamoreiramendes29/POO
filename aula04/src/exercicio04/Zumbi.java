@@ -2,11 +2,22 @@ package exercicio04;
 
 public class Zumbi {
 
+    double vida;
     String nome;
-    int Vida;
 
+    double mostraVida(){
 
-    void manipularVida(){
-        System.out.println(nome + " tem " + Vida + " vidas");
+        return this.vida;
+    }
+
+    boolean transfereVida(Zumbi zumbiAlvo, double quantia){
+        if(vida>quantia){
+            vida -= quantia;
+            zumbiAlvo.vida += quantia;
+            return true;
+    }
+        else{
+            return false;
+        }
     }
 }

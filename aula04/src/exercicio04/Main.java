@@ -1,28 +1,28 @@
 package exercicio04;
 
-public class Main {
+    public class Main {
 
         public static void main(String[] args) {
             Zumbi zumbi1 = new Zumbi();
             Zumbi zumbi2 = new Zumbi();
 
             zumbi1.nome = "Pedro";
-            zumbi2.nome = "Chico";
+            zumbi1.vida = 4;
 
-            zumbi1.Vida = 5;
-            zumbi2.Vida = 4;
+            zumbi2.nome = "Antonio";
+            zumbi2.vida = 15;
 
-            zumbi1.manipularVida();
-            zumbi2.manipularVida();
 
-            zumbi1 = zumbi2;
+            System.out.println(zumbi1.mostraVida());
+            System.out.println(zumbi2.mostraVida());
 
-            zumbi1.Vida = 10;
-            zumbi2.Vida = 444;
+            boolean deuCerto = zumbi1.transfereVida(zumbi2, 5);
+            System.out.println(deuCerto);
 
-            zumbi1.manipularVida();
-            zumbi2.manipularVida();
+
         }
 
 
-}
+
+    }
+
