@@ -7,8 +7,7 @@ Exercícios e códigos feitos em aula, em Java.
 | Pasta | Assunto |
 |---|---|
 | `aula03/` | Estruturas de controle: `switch` com `Scanner` e jogo de adivinhação com `while` e `Random` |
-| `aula03_v1/` | Versão anterior do exercício do `switch` (mantida como histórico) |
-| `aula04/` | Primeira classe: `Zumbi` com atributos e métodos (`apresentar`, `andar`, `morder`) |
+| `aula04_01/` | Primeira classe: `Zumbi` com atributos e métodos (`apresentar`, `andar`, `morder`) |
 | `aula04_02/` | Instanciação de objetos |
 | `aula04_03/` | Referências de objetos: o que acontece quando `zumbi1 = zumbi2` |
 
