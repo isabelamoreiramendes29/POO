@@ -5,7 +5,7 @@ target/
 build/
 bin/
 
-# IntelliJ IDEA
+# Configuracao local do IntelliJ IDEA (nao vai para o GitHub)
 .idea/
 *.iml
 *.iws
