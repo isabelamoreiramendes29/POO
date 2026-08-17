@@ -8,7 +8,7 @@ package exercicio04;
 
             zumbi1.nome = "Pedro";
             zumbi1.vida = 4;
-
+            
             zumbi2.nome = "Antonio";
             zumbi2.vida = 15;
 
