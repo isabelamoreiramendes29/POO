@@ -11,7 +11,8 @@ convivem sem conflito de nomes de classe.
 | Pasta | Assunto |
 |---|---|
 | `aula03/` | Estruturas de controle: `switch` com `Scanner` e jogo de adivinhação com `while` e `Random` |
-| `aula04/` | Classes e objetos — a classe `Zumbi` em quatro etapas |
+| `aula04/` | Classes e objetos — a classe `Zumbi`, depois `Personagem`/`Arma` e `Piloto`/`Kart`/`Motor` |
+| `aula05/` | Arrays |
 | `Exercicio1/` | Média de lanches com `Scanner`; e cálculo de aprovado/reprovado por nota |
 | `untitled/` | Primeiros testes: Hello World e classe inicial |
 
