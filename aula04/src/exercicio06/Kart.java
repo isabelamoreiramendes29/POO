@@ -15,7 +15,7 @@ public class Kart {
         System.out.println("Pular");
     }
     void soltarTurbo(){
-        System.out.println("soltarTurbo");
+        System.out.println("Soltar Turbo");
     }
     void fazerDrift(){
         System.out.println("Fazer Drift");
