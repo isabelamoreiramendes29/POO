@@ -14,6 +14,7 @@ convivem sem conflito de nomes de classe.
 | `aula04/` | Classes e objetos — a classe `Zumbi`, depois `Personagem`/`Arma` e `Piloto`/`Kart`/`Motor` |
 | `aula05/` | Arrays |
 | `aula06/` | Pacotes |
+| `aula07/` | A definir |
 | `Exercicio1/` | Média de lanches com `Scanner`; e cálculo de aprovado/reprovado por nota |
 | `untitled/` | Primeiros testes: Hello World e classe inicial |
 
