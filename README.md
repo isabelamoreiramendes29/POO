@@ -16,6 +16,7 @@ convivem sem conflito de nomes de classe.
 | `aula06/` | Pacotes |
 | `aula07/` | A definir |
 | `interface/` | Interfaces |
+| `arrayList/` | ArrayList |
 | `desafio-campo-minado/` | Desafio final — jogo Campo Minado, juntando o conteúdo de todas as aulas |
 | `Exercicio1/` | Média de lanches com `Scanner`; e cálculo de aprovado/reprovado por nota |
 | `untitled/` | Primeiros testes: Hello World e classe inicial |

@@ -8,10 +8,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Mamifero cachorro = new Cachorro("Rex", 100);
-        Mamifero boi = new Boi("Mimoso", 150);
-        Lontra lontra = new Lontra("Lola", 80);
-
         List<Double> listaDeString = new ArrayList<>();
 
         listaDeString.add(145.5);
@@ -22,15 +18,6 @@ public class Main {
         for (Double elemento : listaDeString){
             System.out.println(elemento);
         }
-        cachorro.mostraInfo();
-        cachorro.emitirSom();
-
-        boi.mostraInfo();
-        boi.emitirSom();
-
-        lontra.mostraInfo();
-        lontra.emitirSom();
-        lontra.nadar();
 
     }
 }
